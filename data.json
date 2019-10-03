@@ -1,0 +1,14 @@
+[
+  {
+    "src": "http://www.example.com/about-us/",
+    "dest": "https://exampleTwo.com/about-us/"
+  },
+  {
+    "src": "http://www.example.com/about-us/contact/",
+    "dest": "https://example.com/contact/"
+  },
+  {
+    "src": "http://www.example.com/api",
+    "dest": "https://api.example.com"
+  }
+]

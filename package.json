@@ -1,0 +1,9 @@
+{
+  "name": "meta-tag-redirection-generator",
+  "private": true,
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-handlebars-layouts": "^0.3.0",
+    "matchdep": "*"
+  }
+}
