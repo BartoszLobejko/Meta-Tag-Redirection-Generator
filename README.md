@@ -1,0 +1,2 @@
+# Meta-Tag-Redirection-Generator
+Perfect for static hosting websites. Generator takes as input data.json file with all your Source and Destination redirection and create a folder structure based on source urls. Index.html file is added to each folder with your desired template that contains redirection meta tag, javascript and link.   The goal of this tool is to have easy and simple tool to fix old URLs indexed by google.
